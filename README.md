@@ -2,7 +2,7 @@
 - クリック
 
 # デモ
-[CardMoveSample](https://little-hoge.github.io/CardMoveSample/)  
+[GachaSample](https://little-hoge.github.io/GachaSample/)  
 [![Videotogif](https://user-images.githubusercontent.com/3638785/132542359-ac8f7dd9-b8f9-48da-9c52-87c9ba270529.gif)](https://little-hoge.github.io/GachaSample/)
 
 # 開発環境
